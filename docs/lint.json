@@ -1,0 +1,104 @@
+[
+  {
+    "name": "globalReducer",
+    "filePath": "dist/index.es.js",
+    "lines": [
+      {
+        "lineNumber": 128,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 129,
+        "line": " * Creates a global reducer for use within any number of components. The function returned allows for a selector function to be passed to limit the re-renders of the consuming component."
+      },
+      {
+        "lineNumber": 130,
+        "line": " *"
+      },
+      {
+        "lineNumber": 131,
+        "line": " * @param {Object} initialValue The initial value for the state."
+      },
+      {
+        "lineNumber": 132,
+        "line": " * @param {Object} reducer The dispatch functions."
+      },
+      {
+        "lineNumber": 133,
+        "line": " * @param {function(state: Object)} [onStateChange=undefined] onStateChange An optional callback for when the state changes. Can be used for persisting to local storage."
+      },
+      {
+        "lineNumber": 134,
+        "line": " * @return {function(selector: function = undefined, onComponentStateChanged: function = undefined): [Object, Object]}"
+      },
+      {
+        "lineNumber": 135,
+        "line": " */"
+      },
+      {
+        "lineNumber": 136,
+        "line": "function globalReducer(initialValue, reducer) {"
+      }
+    ],
+    "codeParams": [
+      "initialValue",
+      "reducer"
+    ],
+    "docParams": [
+      "initialValue",
+      "reducer",
+      "onStateChange"
+    ]
+  },
+  {
+    "name": "globalReducer",
+    "filePath": "dist/index.js",
+    "lines": [
+      {
+        "lineNumber": 132,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 133,
+        "line": " * Creates a global reducer for use within any number of components. The function returned allows for a selector function to be passed to limit the re-renders of the consuming component."
+      },
+      {
+        "lineNumber": 134,
+        "line": " *"
+      },
+      {
+        "lineNumber": 135,
+        "line": " * @param {Object} initialValue The initial value for the state."
+      },
+      {
+        "lineNumber": 136,
+        "line": " * @param {Object} reducer The dispatch functions."
+      },
+      {
+        "lineNumber": 137,
+        "line": " * @param {function(state: Object)} [onStateChange=undefined] onStateChange An optional callback for when the state changes. Can be used for persisting to local storage."
+      },
+      {
+        "lineNumber": 138,
+        "line": " * @return {function(selector: function = undefined, onComponentStateChanged: function = undefined): [Object, Object]}"
+      },
+      {
+        "lineNumber": 139,
+        "line": " */"
+      },
+      {
+        "lineNumber": 140,
+        "line": "function globalReducer(initialValue, reducer) {"
+      }
+    ],
+    "codeParams": [
+      "initialValue",
+      "reducer"
+    ],
+    "docParams": [
+      "initialValue",
+      "reducer",
+      "onStateChange"
+    ]
+  }
+]

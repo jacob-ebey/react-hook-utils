@@ -1,0 +1,28 @@
+{
+  "coverage": "40%",
+  "expectCount": 15,
+  "actualCount": 6,
+  "files": {
+    "dist/index.es.js": {
+      "expectCount": 7,
+      "actualCount": 3,
+      "undocumentLines": [
+        3,
+        18,
+        32,
+        70
+      ]
+    },
+    "dist/index.js": {
+      "expectCount": 8,
+      "actualCount": 3,
+      "undocumentLines": [
+        5,
+        7,
+        22,
+        36,
+        74
+      ]
+    }
+  }
+}

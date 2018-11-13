@@ -1,0 +1,1142 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "dist/.external-ecmascript.js",
+    "static": true,
+    "longname": "dist/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "dist/index.es.js",
+    "content": "import { useEffect, useState } from 'react';\n\nvar defineProperty = function (obj, key, value) {\n  if (key in obj) {\n    Object.defineProperty(obj, key, {\n      value: value,\n      enumerable: true,\n      configurable: true,\n      writable: true\n    });\n  } else {\n    obj[key] = value;\n  }\n\n  return obj;\n};\n\nvar _extends = Object.assign || function (target) {\n  for (var i = 1; i < arguments.length; i++) {\n    var source = arguments[i];\n\n    for (var key in source) {\n      if (Object.prototype.hasOwnProperty.call(source, key)) {\n        target[key] = source[key];\n      }\n    }\n  }\n\n  return target;\n};\n\nvar slicedToArray = function () {\n  function sliceIterator(arr, i) {\n    var _arr = [];\n    var _n = true;\n    var _d = false;\n    var _e = undefined;\n\n    try {\n      for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {\n        _arr.push(_s.value);\n\n        if (i && _arr.length === i) break;\n      }\n    } catch (err) {\n      _d = true;\n      _e = err;\n    } finally {\n      try {\n        if (!_n && _i[\"return\"]) _i[\"return\"]();\n      } finally {\n        if (_d) throw _e;\n      }\n    }\n\n    return _arr;\n  }\n\n  return function (arr, i) {\n    if (Array.isArray(arr)) {\n      return arr;\n    } else if (Symbol.iterator in Object(arr)) {\n      return sliceIterator(arr, i);\n    } else {\n      throw new TypeError(\"Invalid attempt to destructure non-iterable instance\");\n    }\n  };\n}();\n\nvar toConsumableArray = function (arr) {\n  if (Array.isArray(arr)) {\n    for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) arr2[i] = arr[i];\n\n    return arr2;\n  } else {\n    return Array.from(arr);\n  }\n};\n\n/**\n * Creates a new event that allows subscribers to add and remove event handlers.\n * @return {function}\n * @property {function(handler: function)} add Add a new event handler.\n * @property {function(handler: function)} remove Remove an event handler.\n */\nfunction createEvent() {\n  var invokeList = [];\n\n  var event = function event() {\n    var _iteratorNormalCompletion = true;\n    var _didIteratorError = false;\n    var _iteratorError = undefined;\n\n    try {\n      for (var _iterator = invokeList[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {\n        var e = _step.value;\n\n        e.apply(undefined, arguments);\n      }\n    } catch (err) {\n      _didIteratorError = true;\n      _iteratorError = err;\n    } finally {\n      try {\n        if (!_iteratorNormalCompletion && _iterator.return) {\n          _iterator.return();\n        }\n      } finally {\n        if (_didIteratorError) {\n          throw _iteratorError;\n        }\n      }\n    }\n  };\n\n  event.add = function (e) {\n    invokeList = [].concat(toConsumableArray(invokeList), [e]);\n  };\n\n  event.remove = function (e) {\n    invokeList = invokeList.filter(function (c) {\n      return c !== e;\n    });\n  };\n\n  return event;\n}\n\n/**\n * Creates a global reducer for use within any number of components. The function returned allows for a selector function to be passed to limit the re-renders of the consuming component.\n *\n * @param {Object} initialValue The initial value for the state.\n * @param {Object} reducer The dispatch functions.\n * @param {function(state: Object)} [onStateChange=undefined] onStateChange An optional callback for when the state changes. Can be used for persisting to local storage.\n * @return {function(selector: function = undefined, onComponentStateChanged: function = undefined): [Object, Object]}\n */\nfunction globalReducer(initialValue, reducer) {\n  var onStateChange = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : undefined;\n\n  var state = initialValue;\n  var onChange = createEvent();\n\n  var dispatch = Object.keys(reducer).reduce(function (p, c) {\n    return _extends({}, p, defineProperty({}, c, function () {\n      for (var _len = arguments.length, params = Array(_len), _key = 0; _key < _len; _key++) {\n        params[_key] = arguments[_key];\n      }\n\n      var newState = reducer[c].apply(reducer, [state].concat(params));\n\n      if (state !== newState) {\n        state = newState;\n        onChange(newState);\n\n        if (onStateChange) {\n          onStateChange(newState);\n        }\n      }\n    }));\n  }, {});\n\n  return function () {\n    var selector = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : undefined;\n    var onComponentStateChanged = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : undefined;\n\n    var _useState = useState(selector ? selector(state) : state),\n        _useState2 = slicedToArray(_useState, 2),\n        componentState = _useState2[0],\n        setComponentState = _useState2[1];\n\n    useEffect(function () {\n      var onComponentChange = function onComponentChange(newState) {\n        var newComponentState = selector ? selector(newState) : newState;\n\n        if (newComponentState !== componentState) {\n          setComponentState(newComponentState);\n\n          if (onComponentStateChanged) {\n            onComponentStateChanged(newComponentState);\n          }\n        }\n      };\n\n      onChange.add(onComponentChange);\n\n      return function () {\n        onChange.remove(onComponentChange);\n      };\n    }, [componentState]);\n\n    return [componentState, dispatch];\n  };\n}\n\n/**\n * Use a promise and receive [data, error, loading] values. It is strongly recommended to use in conjunction with useMemo.\n *\n * @param {Promise} promise The promise to use.\n * @return {[Object, Error, boolean]}\n */\nfunction usePromise(promise) {\n  var _useState = useState(null),\n      _useState2 = slicedToArray(_useState, 2),\n      error = _useState2[0],\n      setError = _useState2[1];\n\n  var _useState3 = useState(!!promise),\n      _useState4 = slicedToArray(_useState3, 2),\n      loading = _useState4[0],\n      setLoading = _useState4[1];\n\n  var _useState5 = useState(null),\n      _useState6 = slicedToArray(_useState5, 2),\n      result = _useState6[0],\n      setResult = _useState6[1];\n\n  useEffect(function () {\n    var canceled = false;\n\n    if (!promise) {\n      setLoading(false);\n    } else {\n      if (error) {\n        setError(null);\n      }\n\n      if (!loading) {\n        setLoading(true);\n      }\n\n      promise.then(function (r) {\n        if (!canceled) {\n          setResult(r);\n        }\n      }).catch(function (e) {\n        if (!canceled) {\n          setError(e);\n        }\n      }).then(function () {\n        if (!canceled) {\n          setLoading(false);\n        }\n      });\n    }\n\n    return function () {\n      canceled = true;\n    };\n  }, [promise]);\n\n  return [result, error, loading];\n}\n\nexport { createEvent, globalReducer, usePromise };\n//# sourceMappingURL=index.es.js.map\n",
+    "static": true,
+    "longname": "C:/Source/react-hook-utils/dist/index.es.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "defineProperty",
+    "memberof": "dist/index.es.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.es.js~defineProperty",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils/dist/index.es.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "obj",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "_extends",
+    "memberof": "dist/index.es.js",
+    "static": true,
+    "longname": "dist/index.es.js~_extends",
+    "access": "private",
+    "export": false,
+    "importPath": "react-hook-utils/dist/index.es.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "variable",
+    "name": "slicedToArray",
+    "memberof": "dist/index.es.js",
+    "static": true,
+    "longname": "dist/index.es.js~slicedToArray",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils/dist/index.es.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 32,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "toConsumableArray",
+    "memberof": "dist/index.es.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.es.js~toConsumableArray",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils/dist/index.es.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 70,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arr",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "createEvent",
+    "memberof": "dist/index.es.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.es.js~createEvent",
+    "access": "public",
+    "export": true,
+    "importPath": "react-hook-utils/dist/index.es.js",
+    "importStyle": "{createEvent}",
+    "description": "Creates a new event that allows subscribers to add and remove event handlers.",
+    "lineNumber": 86,
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "function(handler: function)"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "add",
+        "description": "Add a new event handler."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(handler: function)"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "remove",
+        "description": "Remove an event handler."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 54,
+    "kind": "function",
+    "name": "globalReducer",
+    "memberof": "dist/index.es.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.es.js~globalReducer",
+    "access": "public",
+    "export": true,
+    "importPath": "react-hook-utils/dist/index.es.js",
+    "importStyle": "{globalReducer}",
+    "description": "Creates a global reducer for use within any number of components. The function returned allows for a selector function to be passed to limit the re-renders of the consuming component.",
+    "lineNumber": 137,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "initialValue",
+        "description": "The initial value for the state."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "reducer",
+        "description": "The dispatch functions."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(state: Object)"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "undefined",
+        "defaultRaw": "undefined",
+        "name": "onStateChange",
+        "description": "onStateChange An optional callback for when the state changes. Can be used for persisting to local storage."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(selector: function = undefined, onComponentStateChanged: function = undefined): [Object, Object]"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "usePromise",
+    "memberof": "dist/index.es.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.es.js~usePromise",
+    "access": "public",
+    "export": true,
+    "importPath": "react-hook-utils/dist/index.es.js",
+    "importStyle": "{usePromise}",
+    "description": "Use a promise and receive [data, error, loading] values. It is strongly recommended to use in conjunction with useMemo.",
+    "lineNumber": 201,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Promise"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "promise",
+        "description": "The promise to use."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "[Object, Error, boolean]"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "dist/index.js",
+    "content": "'use strict';\n\nObject.defineProperty(exports, '__esModule', { value: true });\n\nvar react = require('react');\n\nvar defineProperty = function (obj, key, value) {\n  if (key in obj) {\n    Object.defineProperty(obj, key, {\n      value: value,\n      enumerable: true,\n      configurable: true,\n      writable: true\n    });\n  } else {\n    obj[key] = value;\n  }\n\n  return obj;\n};\n\nvar _extends = Object.assign || function (target) {\n  for (var i = 1; i < arguments.length; i++) {\n    var source = arguments[i];\n\n    for (var key in source) {\n      if (Object.prototype.hasOwnProperty.call(source, key)) {\n        target[key] = source[key];\n      }\n    }\n  }\n\n  return target;\n};\n\nvar slicedToArray = function () {\n  function sliceIterator(arr, i) {\n    var _arr = [];\n    var _n = true;\n    var _d = false;\n    var _e = undefined;\n\n    try {\n      for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {\n        _arr.push(_s.value);\n\n        if (i && _arr.length === i) break;\n      }\n    } catch (err) {\n      _d = true;\n      _e = err;\n    } finally {\n      try {\n        if (!_n && _i[\"return\"]) _i[\"return\"]();\n      } finally {\n        if (_d) throw _e;\n      }\n    }\n\n    return _arr;\n  }\n\n  return function (arr, i) {\n    if (Array.isArray(arr)) {\n      return arr;\n    } else if (Symbol.iterator in Object(arr)) {\n      return sliceIterator(arr, i);\n    } else {\n      throw new TypeError(\"Invalid attempt to destructure non-iterable instance\");\n    }\n  };\n}();\n\nvar toConsumableArray = function (arr) {\n  if (Array.isArray(arr)) {\n    for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) arr2[i] = arr[i];\n\n    return arr2;\n  } else {\n    return Array.from(arr);\n  }\n};\n\n/**\n * Creates a new event that allows subscribers to add and remove event handlers.\n * @return {function}\n * @property {function(handler: function)} add Add a new event handler.\n * @property {function(handler: function)} remove Remove an event handler.\n */\nfunction createEvent() {\n  var invokeList = [];\n\n  var event = function event() {\n    var _iteratorNormalCompletion = true;\n    var _didIteratorError = false;\n    var _iteratorError = undefined;\n\n    try {\n      for (var _iterator = invokeList[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {\n        var e = _step.value;\n\n        e.apply(undefined, arguments);\n      }\n    } catch (err) {\n      _didIteratorError = true;\n      _iteratorError = err;\n    } finally {\n      try {\n        if (!_iteratorNormalCompletion && _iterator.return) {\n          _iterator.return();\n        }\n      } finally {\n        if (_didIteratorError) {\n          throw _iteratorError;\n        }\n      }\n    }\n  };\n\n  event.add = function (e) {\n    invokeList = [].concat(toConsumableArray(invokeList), [e]);\n  };\n\n  event.remove = function (e) {\n    invokeList = invokeList.filter(function (c) {\n      return c !== e;\n    });\n  };\n\n  return event;\n}\n\n/**\n * Creates a global reducer for use within any number of components. The function returned allows for a selector function to be passed to limit the re-renders of the consuming component.\n *\n * @param {Object} initialValue The initial value for the state.\n * @param {Object} reducer The dispatch functions.\n * @param {function(state: Object)} [onStateChange=undefined] onStateChange An optional callback for when the state changes. Can be used for persisting to local storage.\n * @return {function(selector: function = undefined, onComponentStateChanged: function = undefined): [Object, Object]}\n */\nfunction globalReducer(initialValue, reducer) {\n  var onStateChange = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : undefined;\n\n  var state = initialValue;\n  var onChange = createEvent();\n\n  var dispatch = Object.keys(reducer).reduce(function (p, c) {\n    return _extends({}, p, defineProperty({}, c, function () {\n      for (var _len = arguments.length, params = Array(_len), _key = 0; _key < _len; _key++) {\n        params[_key] = arguments[_key];\n      }\n\n      var newState = reducer[c].apply(reducer, [state].concat(params));\n\n      if (state !== newState) {\n        state = newState;\n        onChange(newState);\n\n        if (onStateChange) {\n          onStateChange(newState);\n        }\n      }\n    }));\n  }, {});\n\n  return function () {\n    var selector = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : undefined;\n    var onComponentStateChanged = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : undefined;\n\n    var _useState = react.useState(selector ? selector(state) : state),\n        _useState2 = slicedToArray(_useState, 2),\n        componentState = _useState2[0],\n        setComponentState = _useState2[1];\n\n    react.useEffect(function () {\n      var onComponentChange = function onComponentChange(newState) {\n        var newComponentState = selector ? selector(newState) : newState;\n\n        if (newComponentState !== componentState) {\n          setComponentState(newComponentState);\n\n          if (onComponentStateChanged) {\n            onComponentStateChanged(newComponentState);\n          }\n        }\n      };\n\n      onChange.add(onComponentChange);\n\n      return function () {\n        onChange.remove(onComponentChange);\n      };\n    }, [componentState]);\n\n    return [componentState, dispatch];\n  };\n}\n\n/**\n * Use a promise and receive [data, error, loading] values. It is strongly recommended to use in conjunction with useMemo.\n *\n * @param {Promise} promise The promise to use.\n * @return {[Object, Error, boolean]}\n */\nfunction usePromise(promise) {\n  var _useState = react.useState(null),\n      _useState2 = slicedToArray(_useState, 2),\n      error = _useState2[0],\n      setError = _useState2[1];\n\n  var _useState3 = react.useState(!!promise),\n      _useState4 = slicedToArray(_useState3, 2),\n      loading = _useState4[0],\n      setLoading = _useState4[1];\n\n  var _useState5 = react.useState(null),\n      _useState6 = slicedToArray(_useState5, 2),\n      result = _useState6[0],\n      setResult = _useState6[1];\n\n  react.useEffect(function () {\n    var canceled = false;\n\n    if (!promise) {\n      setLoading(false);\n    } else {\n      if (error) {\n        setError(null);\n      }\n\n      if (!loading) {\n        setLoading(true);\n      }\n\n      promise.then(function (r) {\n        if (!canceled) {\n          setResult(r);\n        }\n      }).catch(function (e) {\n        if (!canceled) {\n          setError(e);\n        }\n      }).then(function () {\n        if (!canceled) {\n          setLoading(false);\n        }\n      });\n    }\n\n    return function () {\n      canceled = true;\n    };\n  }, [promise]);\n\n  return [result, error, loading];\n}\n\nexports.createEvent = createEvent;\nexports.globalReducer = globalReducer;\nexports.usePromise = usePromise;\n//# sourceMappingURL=index.js.map\n",
+    "static": true,
+    "longname": "C:/Source/react-hook-utils/dist/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "react",
+    "memberof": "dist/index.js",
+    "static": true,
+    "longname": "dist/index.js~react",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "defineProperty",
+    "memberof": "dist/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.js~defineProperty",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [
+      {
+        "name": "obj",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "key",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "variable",
+    "name": "_extends",
+    "memberof": "dist/index.js",
+    "static": true,
+    "longname": "dist/index.js~_extends",
+    "access": "private",
+    "export": false,
+    "importPath": "react-hook-utils",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 60,
+    "kind": "variable",
+    "name": "slicedToArray",
+    "memberof": "dist/index.js",
+    "static": true,
+    "longname": "dist/index.js~slicedToArray",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "toConsumableArray",
+    "memberof": "dist/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.js~toConsumableArray",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 74,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arr",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "createEvent",
+    "memberof": "dist/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.js~createEvent",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils",
+    "importStyle": null,
+    "description": "Creates a new event that allows subscribers to add and remove event handlers.",
+    "lineNumber": 90,
+    "properties": [
+      {
+        "nullable": null,
+        "types": [
+          "function(handler: function)"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "add",
+        "description": "Add a new event handler."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(handler: function)"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "remove",
+        "description": "Remove an event handler."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": [],
+    "ignore": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "globalReducer",
+    "memberof": "dist/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.js~globalReducer",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils",
+    "importStyle": null,
+    "description": "Creates a global reducer for use within any number of components. The function returned allows for a selector function to be passed to limit the re-renders of the consuming component.",
+    "lineNumber": 141,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "initialValue",
+        "description": "The initial value for the state."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "reducer",
+        "description": "The dispatch functions."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "function(state: Object)"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "undefined",
+        "defaultRaw": "undefined",
+        "name": "onStateChange",
+        "description": "onStateChange An optional callback for when the state changes. Can be used for persisting to local storage."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "function(selector: function = undefined, onComponentStateChanged: function = undefined): [Object, Object]"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "usePromise",
+    "memberof": "dist/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "dist/index.js~usePromise",
+    "access": "public",
+    "export": false,
+    "importPath": "react-hook-utils",
+    "importStyle": null,
+    "description": "Use a promise and receive [data, error, loading] values. It is strongly recommended to use in conjunction with useMemo.",
+    "lineNumber": 205,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Promise"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "promise",
+        "description": "The promise to use."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "[Object, Error, boolean]"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "# react-hook-utils\n\n>\n\n[![NPM](https://img.shields.io/npm/v/react-hook-utils.svg)](https://www.npmjs.com/package/react-hook-utils)\n\n## Install\n\n```bash\nnpm install --save react-hook-utils\n```\n\n## Usage\n\n### Global Reducer\n\nCreate a global reducer for re-use in components:\n\n```jsx\n// useCount.js\nimport { globalReducer } from \"react-hook-utils\";\n\nexport default globalReducer(\n  { count: 0 },\n  {\n    decrement: state => ({\n      ...state,\n      count: state.count - 1\n    }),\n    increment: state => ({\n      ...state,\n      count: state.count + 1\n    })\n    set: (state, count) => ({\n      ...state,\n      count\n    }),\n  }\n);\n```\n\nUse the reducer within a component:\n\n```jsx\nimport React, { useCallback } from \"react\";\n\nimport useCount from \"./useCount\";\n\nexport function CountControls() {\n  // Select only the count property from the state\n  const [count, { decrement, increment, set }] = useCount(s => s.count);\n\n  // Create a callback to reset the count\n  const reset = useCallback(() => set(0), [set]);\n\n  return (\n    <div>\n      <button onClick={decrement}>-</button>\n      {count}\n      <button onClick={increment}>+</button>\n      <br />\n      <button onClick={reset}>Reset</button>\n    </div>\n  );\n}\n```\n\n### Use Promise\n\nIn the following example, API.getUserAsync returns a Promise. We combine usePromise with useMemo as follows to only make an API call when the userId changes:\n\n```jsx\nimport React, { useMemo } from \"react\";\nimport { usePromise } from \"react-hook-utils\";\n\nimport API from \"./api\";\n\nexport function UserView({ userId }) {\n  const [user, error, loading] = usePromise(\n    useMemo(() => API.getUserAsync(userId), [userId])\n  );\n\n  if (loading) {\n    return <div>Loading...</div>;\n  } else if (error) {\n    return <div>Something went wrong :(</div>;\n  }\n\n  return <div>Hello, {user.name}</div>;\n}\n```\n\n## License\n\nMIT © [](https://github.com/)\n",
+    "longname": "C:\\Source\\react-hook-utils\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"react-hook-utils\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"author\": \"\",\n  \"license\": \"MIT\",\n  \"repository\": \"https://github.com/jacob-ebey/react-hook-utils.git\",\n  \"main\": \"dist/index.js\",\n  \"module\": \"dist/index.es.js\",\n  \"jsnext:main\": \"dist/index.es.js\",\n  \"engines\": {\n    \"node\": \">=8\",\n    \"npm\": \">=5\"\n  },\n  \"scripts\": {\n    \"test\": \"cross-env CI=1 react-scripts test --env=jsdom\",\n    \"coverage\": \"cross-env CI=1 react-scripts test --coverage --env=jsdom\",\n    \"test:watch\": \"react-scripts test --env=jsdom\",\n    \"build\": \"rollup -c && esdoc\",\n    \"start\": \"rollup -c -w\",\n    \"prepare\": \"npm run build\",\n    \"predeploy\": \"cd example && npm install && npm run build\",\n    \"deploy\": \"gh-pages -d example/build\"\n  },\n  \"peerDependencies\": {\n    \"react\": \"^16.7.0-alpha.0\",\n    \"react-dom\": \"^16.7.0-alpha.0\",\n    \"scheduler\": \"^0.11.0-alpha.0\"\n  },\n  \"devDependencies\": {\n    \"@svgr/rollup\": \"^2.4.1\",\n    \"babel-core\": \"^6.26.3\",\n    \"babel-eslint\": \"^8.2.5\",\n    \"babel-plugin-external-helpers\": \"^6.22.0\",\n    \"babel-preset-env\": \"^1.7.0\",\n    \"babel-preset-react\": \"^6.24.1\",\n    \"babel-preset-stage-0\": \"^6.24.1\",\n    \"cross-env\": \"^5.1.4\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^5.0.1\",\n    \"eslint-config-standard\": \"^11.0.0\",\n    \"eslint-config-standard-react\": \"^6.0.0\",\n    \"eslint-plugin-import\": \"^2.13.0\",\n    \"eslint-plugin-node\": \"^7.0.1\",\n    \"eslint-plugin-promise\": \"^4.0.0\",\n    \"eslint-plugin-react\": \"^7.10.0\",\n    \"eslint-plugin-standard\": \"^3.1.0\",\n    \"gh-pages\": \"^1.2.0\",\n    \"react\": \"16.7.0-alpha.0\",\n    \"react-dom\": \"16.7.0-alpha.0\",\n    \"react-scripts\": \"^1.1.4\",\n    \"react-testing-library\": \"^5.2.3\",\n    \"rollup\": \"^0.64.1\",\n    \"rollup-plugin-babel\": \"^3.0.7\",\n    \"rollup-plugin-commonjs\": \"^9.1.3\",\n    \"rollup-plugin-node-resolve\": \"^3.3.0\",\n    \"rollup-plugin-peer-deps-external\": \"^2.2.0\",\n    \"rollup-plugin-postcss\": \"^1.6.2\",\n    \"rollup-plugin-url\": \"^1.4.0\",\n    \"scheduler\": \"0.11.0-alpha.0\"\n  },\n  \"files\": [\n    \"dist\",\n    \"README.md\"\n  ]\n}\n",
+    "longname": "C:\\Source\\react-hook-utils\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
