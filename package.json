@@ -1,6 +1,6 @@
 {
   "name": "react-hook-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Utilities for working with react-hooks.",
   "author": "Jacob Ebey <jacob.ebey@live.com>",
   "license": "MIT",
@@ -64,6 +64,7 @@
   },
   "files": [
     "dist",
+    "react-hook-utils.d.ts",
     "README.md"
   ]
 }
