@@ -2,7 +2,7 @@
 
 >
 
-[![NPM](https://img.shields.io/npm/v/react-hook-utils.svg)](https://www.npmjs.com/package/react-hook-utils)
+[![CircleCI](https://circleci.com/gh/jacob-ebey/react-hook-utils.svg?style=svg)](https://circleci.com/gh/jacob-ebey/react-hook-utils) [![Coverage Status](https://coveralls.io/repos/github/jacob-ebey/react-hook-utils/badge.svg?branch=master)](https://coveralls.io/github/jacob-ebey/react-hook-utils?branch=master) [![NPM](https://img.shields.io/npm/v/react-hook-utils.svg)](https://www.npmjs.com/package/react-hook-utils)
 
 ## Install
 
