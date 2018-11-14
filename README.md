@@ -10,6 +10,10 @@
 npm install --save react-hook-utils
 ```
 
+## Documentation
+
+https://jacob-ebey.github.io/react-hook-utils/
+
 ## Usage
 
 ### Global Reducer
