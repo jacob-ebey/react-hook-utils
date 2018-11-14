@@ -1,8 +1,8 @@
 {
   "name": "react-hook-utils",
-  "version": "1.0.3",
-  "description": "",
-  "author": "",
+  "version": "1.0.4",
+  "description": "Utilities for working with react-hooks.",
+  "author": "Jacob Ebey <jacob.ebey@live.com>",
   "license": "MIT",
   "repository": "https://github.com/jacob-ebey/react-hook-utils.git",
   "main": "dist/index.js",
