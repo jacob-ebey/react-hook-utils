@@ -1,7 +1,21 @@
 declare module "react-hook-utils" {
+  /**
+   * An event handler that allows for subscriptions to be added and removed.
+   */
   export interface EventHandler {
+    /**
+     * Raise the event
+     */
     (...params: any[]): void;
+    /**
+     * Add a callback.
+     * @param callback The callback to add.
+     */
     add(callback: (...params: any[]) => void);
+    /**
+     * Remove a callback.
+     * @param callback The callback to remove.
+     */
     remove(callback: (...params: any[]) => void);
   }
 
